@@ -1,0 +1,309 @@
+
+First of all, a big thanks to all translators! You are doing a great job.
+
+---------------------------------------------------------
+Pazera Free Audio Extractor
+
+
+---------------------------
+Version 2.9 -> 2.10
+
+Removed: MAIN.actSetDefaultEncoderSettings
+
+New strings:
+
+  [MAIN]
+
+  btnSetDefaultEncoderSettings
+  actSetDefault_AllEncoders
+  actSetDefault_MP3
+  actSetDefault_Vorbis
+  actSetDefault_AAC
+  actSetDefault_Opus
+  actSetDefault_FLAC
+  actSetDefault_ALAC
+  actSetDefault_WavPack
+
+  lblMp3AlgoQuality
+  lblMp3BitReservoir
+
+  lblStereoMode
+  chLowpassFilter
+  lblLowpassFilter
+  lblSampleFormat
+  lblCompressionLevel
+
+  // --- Ogg ---
+  lblVbrPreset
+  lblMinBitrate
+  lblMaxBitrate
+  lblOutputFileExt
+
+  // -- AAC ---
+  lblVbrMode
+  lblAudioProfile
+
+  // --- Opus ---
+  lblEncodingAlgoComplexity
+  lblFrameDuration
+  lblTune
+  chExpectedPacketLoss
+
+  // --- FLAC ---
+  lblBitDepth
+  chChannelMode
+  lblFlactExactRice
+  lblFlacMultiDim
+
+  pnFlacLPC
+  lblFlacLpcPresission
+  lblFlacLpcType
+  chFlacLpcPasses
+
+  pnFlacPredictionOrder
+  lblFlacPredictionOrderMethod
+  chFlacPredictionOrder
+  lblFlacPredictionOrderMin
+  lblFlacPredictionOrderMax
+
+  pnFlacPartitionOrder
+  chFlacPartitionOrder
+  lblFlacPartitionOrderMin
+  lblFlacPartitionOrderMax
+
+  // --- WavPack ---
+  chWavpackBlockSize
+
+
+  lblAudioNoSpecificOptions
+  InvalidMinMax
+
+  pnEncoderMP3
+  pnEncoderVorbis
+  pnEncoderAAC
+  pnEncoderOpus
+  pnEncoderFLAC
+  pnEncoderALAC
+  pnEncoderWavPack
+  pnEncoderExtract
+
+  cbParamOrder
+  lblParamOrder_App
+  lblParamOrder_CL1
+  lblParamOrder_CL2
+
+  actRenumberFiles
+
+
+  [FileInfo]
+
+  lblHexFileContent
+  lblHexCurrentOffset
+
+
+
+  [Options]
+
+  chRecurseSubdirs
+
+
+
+---------------------------
+Version 2.8 -> 2.9
+
+New strings:
+
+  MAIN.lblBitrateMode
+  MAIN.lblLamePreset
+  Options.lblAacExtractFormat
+
+
+---------------------------
+Version 2.7 -> 2.8
+
+New section: CheckUpdate
+
+New strings:
+
+  MAIN.actCheckUpdate
+  MAIN.chKeepFileDates
+  MAIN.KeepFileDates
+
+
+---------------------------
+Version 2.6 -> 2.7
+
+New string:
+
+  MAIN.mnuColumns
+    It is displayed in the context menu of the file list and
+    in the top menu "File list->Columns".
+
+
+---------------------------
+Version 2.5 -> 2.6
+
+No changes.
+
+
+---------------------------
+Version 2.4 -> 2.5
+
+New sections:
+
+  DirectoryList
+  ToolsInfo
+
+New strings:
+
+  MAIN.OutDirMode_TheSame
+  MAIN.OutDirMode_Desktop
+  MAIN.OutDirMode_MyMusic
+  MAIN.OutDirMode_MyDocuments
+  MAIN.OutDirMode_Custom
+  MAIN.actToolsInfo
+  MAIN.EditOutputDirList
+
+  DirectoryList.Caption
+  DirectoryList.actAddNewRow
+  DirectoryList.actAddNewFolder
+  DirectoryList.actRemoveSelected
+  DirectoryList.actLoadList
+  DirectoryList.actSaveList
+  DirectoryList.actSelectAll
+  DirectoryList.actUnselectAll
+  DirectoryList.actOk
+  DirectoryList.actCancel
+  DirectoryList.colNo
+  DirectoryList.colActive
+  DirectoryList.colDirectory
+  DirectoryList.lblDragInfo
+
+  ToolsInfo.Caption
+
+Removed: MAIN.rbOutDirIsInDir
+
+Renamed:
+
+  INFO.Author -> INFO.Translator
+  INFO.AuthorUrl -> INFO.TranslatorUrl
+  INFO.AuthorEmail -> INFO.TranslatorEmail
+
+  MAIN.gbOutputDir -> MAIN.OutputDir
+  MAIN.lvColumn_No -> MAIN.colNo
+  MAIN.lvColumn_Icon -> MAIN.colIcon
+  MAIN.lvColumn_FullFileName -> MAIN.colFullFileName
+  MAIN.lvColumn_File -> MAIN.colFile
+  MAIN.lvColumn_Directory -> MAIN.colDirectory
+  MAIN.lvColumn_Size -> MAIN.colSize
+  MAIN.lvColumn_Status -> MAIN.colStatus
+  MAIN.lvColumn_Duration -> MAIN.colDuration
+  MAIN.lvColumn_Menu -> MAIN.colMenu
+  MAIN.lvColumn_ChapterCount -> MAIN.colChapterCount
+  MAIN.lvColumn_ChapterTitle -> MAIN.colChapterTitle
+  MAIN.lvColumn_ChapterStart -> MAIN.colChapterStart
+  MAIN.lvColumn_ChapterEnd -> MAIN.colChapterEnd
+  MAIN.lvColumn_ChapterNo -> MAIN.colChapterNo
+  MAIN.lvColumn_Audio -> MAIN.colAudio
+  MAIN.lvColumn_AudioCodec -> MAIN.colAudioCodec
+  MAIN.lvColumn_AudioCodecID -> MAIN.colAudioCodecID
+  MAIN.lvColumn_AudioProfile -> MAIN.colAudioProfile
+  MAIN.lvColumn_AudioBitrate -> MAIN.colAudioBitrate
+  MAIN.lvColumn_AudioChannels -> MAIN.colAudioChannels
+  MAIN.lvColumn_AudioSampling -> MAIN.colAudioSampling
+  MAIN.lvColumn_AudioStreamSize -> MAIN.colAudioStreamSize
+  MAIN.lvColumn_Video -> MAIN.colVideo
+
+
+---------------------------
+Version 2.3 -> 2.4
+
+New strings:
+
+  MAIN.cbOutputFilePrefix
+  MAIN.cbOutputFileSuffix
+
+
+---------------------------
+Version 2.2 -> 2.3
+
+New strings:
+
+  MAIN.Yes
+  MAIN.No
+  MAIN.AverageShort
+
+  MAIN.lvColumn_FullFileName
+  MAIN.lvColumn_AudioCodec
+  MAIN.lvColumn_AudioCodecID
+  MAIN.lvColumn_AudioProfile
+  MAIN.lvColumn_AudioBitrate
+  MAIN.lvColumn_AudioChannels
+  MAIN.lvColumn_AudioSampling
+  MAIN.lvColumn_AudioStreamSize
+
+  MAIN.lvColumn_Menu
+  MAIN.lvColumn_ChapterCount
+  MAIN.lvColumn_ChapterTitle
+  MAIN.lvColumn_ChapterStart
+  MAIN.lvColumn_ChapterEnd
+  MAIN.lvColumn_ChapterNo
+
+  MAIN.actPanelsExpand
+  MAIN.actPanelsCollapse
+  MAIN.actShowSettingsPanel
+  MAIN.actHideSettingsPanel
+
+  MAIN.actClearFileList
+  MAIN.actCheckSelected
+  MAIN.actUncheckAll
+  MAIN.actUncheckSelected
+
+
+  FileInfo.tabBasicInfo
+
+
+  Options.lblFileAnalysis
+  Options.FileAnalysis_Full
+  Options.FileAnalysis_Quick
+  Options.FileAnalysis_None
+  Options.chSplitChapters
+
+
+  Progress.lblTime
+  Progress.lblSize
+  Progress.lblBitrate
+  Progress.lblSpeed
+
+---------------------------
+Version 2.1 -> 2.2
+
+New strings:
+
+  MAIN.actStayOnTop
+  MAIN.btnAddFolder
+  MAIN.lvColumn_Duration
+  MAIN.lvColumn_Video
+  MAIN.lvColumn_Audio
+  MAIN.lvColumn_Icon
+
+  FileInfo.actCopy
+  FileInfo.btnCopy
+
+  Options.pnFileList
+  Options.lblFileListFontName
+  Options.lblFileListFontSize
+  Options.lblFileListRowHeight
+  Options.chFileListAllowRowMoving
+  Options.chFileListAllowColumnMoving
+  Options.chFileListGridLines
+  Options.chFileListFooter
+  Options.chFileListRowIndicator
+  Options.chFileListIconClickOpen
+  Options.btnCreateShortcutOnDesktop
+
+Modified strings:
+
+  MAIN.actAddFolder=Add folder... => MAIN.actAddFolder=Add files from folder...
+  MAIN.btnConvert=CONVERT => MAIN.btnConvert=Convert
+

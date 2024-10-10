@@ -1,0 +1,6 @@
+﻿// Output file name prefixes
+// <TIMESTAMP> - time stamp in a format: YYYY-MM-DD_HH;MM;SS
+// <OutputFormat> - selected output format
+
+<TIMESTAMP> -
+<OutputFormat> -

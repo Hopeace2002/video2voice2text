@@ -1,0 +1,300 @@
+--------------------------------------------------------------------------------
+MP3 Lame
+
+Channels: 1 (mono)
+
+ 8000 Hz: 8-64 kbit/s
+11025 Hz: 8-64 kbit/s
+16000 Hz: 8-160 kbit/s
+22050 Hz: 8-160 kbit/s
+24000 Hz: 8-160 kbit/s
+32000 Hz: 32-320 kbit/s
+44100 Hz: 32-320 kbit/s
+48000 Hz: 32-320 kbit/s
+
+
+Channels: 2 (stereo)
+
+ 8000 Hz: 8-64 kbit/s
+11025 Hz: 8-64 kbit/s
+16000 Hz: 8-160 kbit/s
+22050 Hz: 8-160 kbit/s
+24000 Hz: 8-160 kbit/s
+32000 Hz: 32-320 kbit/s
+44100 Hz: 32-320 kbit/s
+48000 Hz: 32-320 kbit/s
+
+--------------------------------------------------------------------------------
+AAC
+
+Channels: 1 (mono)
+
+ 8000 Hz: 4-48 kbit/s
+11025 Hz: 8-66 kbit/s
+16000 Hz: 8-96 kbit/s
+22050 Hz: 16-132 kbit/s
+24000 Hz: 16-144 kbit/s
+32000 Hz: 24-192 kbit/s
+44100 Hz: 32-264 kbit/s
+48000 Hz: 32-288 kbit/s
+
+
+Channels: 2 (stereo)
+
+ 8000 Hz: 8-96 kbit/s
+11025 Hz: 16-132 kbit/s
+16000 Hz: 24-192 kbit/s
+22050 Hz: 24-264 kbit/s
+24000 Hz: 32-288 kbit/s
+32000 Hz: 40-384 kbit/s
+44100 Hz: 64-528 kbit/s
+48000 Hz: 64-576 kbit/s
+
+
+Channels: 3
+
+ 8000 Hz: -
+11025 Hz: -
+16000 Hz: -
+22050 Hz: -
+24000 Hz: -
+32000 Hz: -
+44100 Hz: -
+48000 Hz: -
+
+
+Channels: 4
+
+ 8000 Hz: 16-192 kbit/s
+11025 Hz: 24-264 kbit/s
+16000 Hz: 40-384 kbit/s
+22050 Hz: 56-528 kbit/s
+24000 Hz: 64-576 kbit/s
+32000 Hz: 80-768 kbit/s
+44100 Hz: 112-1058 kbit/s
+48000 Hz: 128-1152 kbit/s
+
+
+Channels: 5
+
+ 8000 Hz: 24-240 kbit/s
+11025 Hz: 32-330 kbit/s
+16000 Hz: 48-480 kbit/s
+22050 Hz: 64-660 kbit/s
+24000 Hz: 80-720 kbit/s
+32000 Hz: 96-960 kbit/s
+44100 Hz: 128-1320 kbit/s
+48000 Hz: 160-1440 kbit/s
+
+
+Channels: 6
+
+ 8000 Hz: 32-288 kbit/s
+11025 Hz: 40-396 kbit/s
+16000 Hz: 64-576 kbit/s
+22050 Hz: 80-792 kbit/s
+24000 Hz: 96-864 kbit/s
+32000 Hz: 128-1152 kbit/s
+44100 Hz: 160-1584 kbit/s
+48000 Hz: 192-1728 kbit/s
+
+--------------------------------------------------------------------------------
+WMA
+
+Channels: 1 (mono)
+
+ 8000 Hz: 24- ~1800 kbit/s
+11025 Hz: 24- ~1800 kbit/s
+16000 Hz: 24- ~1800 kbit/s
+22050 Hz: 24- ~1800 kbit/s
+24000 Hz: 24- ~1800 kbit/s
+32000 Hz: 24- ~1800 kbit/s
+44100 Hz: 24- ~1800 kbit/s
+48000 Hz: 24- ~1800 kbit/s
+
+
+Channels: 2 (stereo)
+
+ 8000 Hz: 24- ~1800 kbit/s
+11025 Hz: 24- ~1800 kbit/s
+16000 Hz: 24- ~1800 kbit/s
+22050 Hz: 24- ~1800 kbit/s
+24000 Hz: 24- ~1800 kbit/s
+32000 Hz: 24- ~1800 kbit/s
+44100 Hz: 24- ~1800 kbit/s
+48000 Hz: 24- ~1800 kbit/s
+
+--------------------------------------------------------------------------------
+Opus + Ogg container
+
+Bitrate: 6-510 kbit/s
+Sampling: 8000, 12000, 16000, 24000, 48000
+Channels: 1, 2, 5, 6, 7, 8
+
+--------------------------------------------------------------------------------
+Opus + MKA container
+
+Bitrate: 6-510 kbit/s
+Sampling: 8000, 12000, 16000, 24000, 48000
+Channels: 1, 2, 5, 6, 7, 8
+
+--------------------------------------------------------------------------------
+Opus + CAF container
+
+Bitrate: 6-510 kbit/s
+Sampling: 8000, 12000, 16000, 24000, 48000
+Channels: 1 or 2
+
+--------------------------------------------------------------------------------
+OGG Vorbis
+
+Channels: 1 (mono)
+
+ 8000 Hz: 8-42 kbit/s
+11025 Hz: 12-50 kbit/s
+16000 Hz: 16-100 kbit/s
+22050 Hz: 16-90 kbit/s
+24000 Hz: 16-90 kbit/s
+26000 Hz: 16-190 kbit/s
+32000 Hz: 30-190 kbit/s
+44100 Hz: 32-240 kbit/s
+48000 Hz: 32-240 kbit/s
+
+
+Channels: 2 (stereo)
+
+ 8000 Hz: 12-84 kbit/s
+11025 Hz: 16-100 kbit/s
+16000 Hz: 24-200 kbit/s
+22050 Hz: 30-180 kbit/s
+24000 Hz: 30-180 kbit/s
+26000 Hz: 30-380 kbit/s
+32000 Hz: 36-380 kbit/s
+44100 Hz: 45-500 kbit/s
+48000 Hz: 45-500 kbit/s
+
+
+Channels: 3
+
+ 8000 Hz: 24-126 kbit/s
+11025 Hz: 36-150 kbit/s
+16000 Hz: 48-300 kbit/s
+22050 Hz: 48-270 kbit/s
+24000 Hz: 48-270 kbit/s
+26000 Hz: 48-570 kbit/s
+32000 Hz: 90-570 kbit/s
+44100 Hz: 96-720 kbit/s
+48000 Hz: 96-720 kbit/s
+
+
+Channels: 4
+
+ 8000 Hz: 32-168 kbit/s
+11025 Hz: 48-200 kbit/s
+16000 Hz: 64-400 kbit/s
+22050 Hz: 64-360 kbit/s
+24000 Hz: 64-360 kbit/s
+26000 Hz: 64-760 kbit/s
+32000 Hz: 120-760 kbit/s
+44100 Hz: 128-960 kbit/s
+48000 Hz: 128-960 kbit/s
+
+
+Channels: 5
+
+ 8000 Hz: 40-210 kbit/s
+11025 Hz: 60-250 kbit/s
+16000 Hz: 80-500 kbit/s
+22050 Hz: 80-450 kbit/s
+24000 Hz: 80-450 kbit/s
+26000 Hz: 80-950 kbit/s
+32000 Hz: 150-950 kbit/s
+44100 Hz: 160-1200 kbit/s
+48000 Hz: 160-1200 kbit/s
+
+
+Channels: 6
+
+ 8000 Hz: 48-252 kbit/s
+11025 Hz: 72-300 kbit/s
+16000 Hz: 96-600 kbit/s
+22050 Hz: 96-540 kbit/s
+24000 Hz: 96-540 kbit/s
+26000 Hz: 96-1140 kbit/s
+32000 Hz: 180-1140 kbit/s
+44100 Hz: 84-1440 kbit/s
+48000 Hz: 84-1440 kbit/s
+
+--------------------------------------------------------------------------------
+AC3
+
+Channels: 1 (mono)
+
+ 8000 Hz: 8-160 kbit/s
+11025 Hz: 8-160 kbit/s
+16000 Hz: 16-320 kbit/s
+22050 Hz: 16-320 kbit/s
+24000 Hz: 16-320 kbit/s
+32000 Hz: 32-640 kbit/s
+44100 Hz: 32-640 kbit/s
+48000 Hz: 32-640 kbit/s
+
+
+Channels: 2 (stereo)
+
+ 8000 Hz: 8-160 kbit/s
+11025 Hz: 8-160 kbit/s
+16000 Hz: 16-320 kbit/s
+22050 Hz: 16-320 kbit/s
+24000 Hz: 24-320 kbit/s
+32000 Hz: 32-640 kbit/s
+44100 Hz: 32-640 kbit/s
+48000 Hz: 32-640 kbit/s
+
+
+Channels: 3
+
+ 8000 Hz: 8-160 kbit/s
+11025 Hz: 8-160 kbit/s
+16000 Hz: 16-320 kbit/s
+22050 Hz: 24-320 kbit/s
+24000 Hz: 24-320 kbit/s
+32000 Hz: 32-640 kbit/s
+44100 Hz: 32-640 kbit/s
+48000 Hz: 32-640 kbit/s
+
+
+Channels: 4
+
+ 8000 Hz: 8-160 kbit/s
+11025 Hz: 16-160 kbit/s
+16000 Hz: 16-320 kbit/s
+22050 Hz: 24-320 kbit/s
+24000 Hz: 24-320 kbit/s
+32000 Hz: 32-640 kbit/s
+44100 Hz: 40-640 kbit/s
+48000 Hz: 40-640 kbit/s
+
+
+Channels: 5
+
+ 8000 Hz: 16-160 kbit/s
+11025 Hz: 16-160 kbit/s
+16000 Hz: 24-320 kbit/s
+22050 Hz: 24-320 kbit/s
+24000 Hz: 24-320 kbit/s
+32000 Hz: 40-640 kbit/s
+44100 Hz: 48-640 kbit/s
+48000 Hz: 48-640 kbit/s
+
+
+Channels: 6
+
+ 8000 Hz: 16-160 kbit/s
+11025 Hz: 16-160 kbit/s
+16000 Hz: 24-320 kbit/s
+22050 Hz: 24-320 kbit/s
+24000 Hz: 24-320 kbit/s
+32000 Hz: 40-640 kbit/s
+44100 Hz: 48-640 kbit/s
+48000 Hz: 48-640 kbit/s
